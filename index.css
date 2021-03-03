@@ -1,14 +1,5 @@
-body{
-  background-color: black;
-}
-
-div{
+#shadow{
+  padding: 5px;
   background-color: white;
-  display: flex;
-  justify-content: center;
-}
-.shadow{
-  padding: 10px;
-  font-size: 24px;
-  text-shadow: 2px 2px 5px blue;
+  box-shadow: 3px 3px 5px grey;
 }
