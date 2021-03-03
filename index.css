@@ -1,5 +1,14 @@
-#opaque{
-  padding: 5px;
-  background-color: red;
-  opacity: 0.6;
+.first{
+  padding: 20px;
+  height: 200px;
+  width: 200px;
+  border: 2px solid blue;
+  box-sizing: content-box;
+}
+.second{
+  padding: 20px;
+  height: 200px;
+  width: 200px;
+  border: 2px solid blue;
+  box-sizing: border-box;
 }
